@@ -1,13 +1,13 @@
-package com.example.droneapp;
+package com.example.droneapp.droneapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DroneappApplicationTests {
+class DroneAppApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
